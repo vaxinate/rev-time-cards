@@ -1,0 +1,17 @@
+{
+  "name": "timecard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "proc": "node processCard.js",
+    "gen": "node generateCard.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bent": "^7.1.2",
+    "date-fns": "^2.11.1",
+    "node-fetch": "^2.6.0"
+  }
+}
