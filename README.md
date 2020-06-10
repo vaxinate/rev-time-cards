@@ -1,6 +1,9 @@
 ## Installation
 
 Clone this repo
+```
+npm install
+```
 
 ## Usage
 
