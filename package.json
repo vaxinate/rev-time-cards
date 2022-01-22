@@ -12,6 +12,6 @@
   "dependencies": {
     "bent": "^7.1.2",
     "date-fns": "^2.11.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
